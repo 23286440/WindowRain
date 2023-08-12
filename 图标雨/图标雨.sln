@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图标雨", "图标雨\图标雨.csproj", "{922076D7-5DE4-483E-97DB-01FED922057C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922076D7-5DE4-483E-97DB-01FED922057C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922076D7-5DE4-483E-97DB-01FED922057C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922076D7-5DE4-483E-97DB-01FED922057C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922076D7-5DE4-483E-97DB-01FED922057C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1784236-2040-4819-8D85-0F18F66B83FD}
+	EndGlobalSection
+EndGlobal
